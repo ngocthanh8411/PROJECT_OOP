@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HOTEL_MANAGER_SYSTEM.Guest">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAwAAAAAAAAAAAAQAAAAAAAADAAAEAAEAEAAAA=</HashCode>
+      <FileName>Guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Manager">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgABIAAAAAAACAAAAAREAAQACAAAAAAEAEBCEAAEA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Person">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAAAAAwAwAAEAMAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Receptionist">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACAAAAAgAAAAAAAAUEAAAAABAAAAAEBEAAEAQAA=</HashCode>
+      <FileName>Receptionist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Room">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAgQAAAIAAAAAAYACAAAAAgAAAAIAAAAAAACA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

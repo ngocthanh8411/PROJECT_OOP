@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HOTEL_MANAGER_SYSTEM.Program" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Person">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAAAAAwAwAAEAMAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Manager">
+    <Position X="5" Y="4" Width="1.5" />
+    <InheritanceLine Type="HOTEL_MANAGER_SYSTEM.Person" FixedFromPoint="true">
+      <Path>
+        <Point X="1.125" Y="4.045" />
+        <Point X="1.125" Y="4.42" />
+        <Point X="2.375" Y="4.42" />
+        <Point X="2.375" Y="3.625" />
+        <Point X="5.75" Y="3.625" />
+        <Point X="5.75" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAAAkAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Receptionist">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Receptionist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Guest">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOTEL_MANAGER_SYSTEM.Room">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAgQAAAIAAAAAAIACACAAAgAAAAIAAAAAAACA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
